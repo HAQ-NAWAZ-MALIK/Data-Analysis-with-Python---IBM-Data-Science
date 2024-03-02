@@ -3,7 +3,7 @@
 # Data Analysis with Python
 
 ## 📄 Summary 
-This course involves using Python to explore many different types of data. It covers how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more. It concludes with a [final assignment](Data-Analysis-with-Python---IBM-Data-Science-main/8) Final-Project - House_Sales_in_King_Count_USA.ipynb) predicting of the market prices of houses based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
+This course involves using Python to explore many different types of data. It covers how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more. It concludes with a [final assignment](https://github.com/HAQ-NAWAZ-MALIK/Data-Analysis-with-Python---IBM-Data-Science/blob/e758ac734eb266997793354e5bfb5b364a36af35/Data-Analysis-with-Python---IBM-Data-Science-main/8)%20Final-Project%20-%20House_Sales_in_King_Count_USA.ipynb) Final-Project - House_Sales_in_King_Count_USA.ipynb) predicting of the market prices of houses based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
 
 ## 📑 Main Topics 
 - [Importing datasets](https://rb.gy/fgx6by)
