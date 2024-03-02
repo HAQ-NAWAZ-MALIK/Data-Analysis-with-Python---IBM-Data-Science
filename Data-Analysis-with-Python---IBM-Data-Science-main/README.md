@@ -6,17 +6,17 @@
 This course involves using Python to explore many different types of data. It covers how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more. It concludes with a [final assignment](https://github.com/HAQ-NAWAZ-MALIK/Data-Analysis-with-Python---IBM-Data-Science/blob/e758ac734eb266997793354e5bfb5b364a36af35/Data-Analysis-with-Python---IBM-Data-Science-main/8)%20Final-Project%20-%20House_Sales_in_King_Count_USA.ipynb) Final-Project - House_Sales_in_King_Count_USA.ipynb) predicting of the market prices of houses based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
 
 ## 📑 Main Topics 
-- [Importing datasets](https://rb.gy/fgx6by)
+- [Importing datasets]([https://rb.gy/fgx6by](https://github.com/HAQ-NAWAZ-MALIK/Data-Analysis-with-Python---IBM-Data-Science/blob/main/Data-Analysis-with-Python---IBM-Data-Science-main/1)%20Importing%20Datasets.ipynb)
 
   - Understanding the data
   - Importing and exporting data in Python
 
-- [Working with different file format](https://rb.gy/skettm)
+- [Working with different file format](https://github.com/HAQ-NAWAZ-MALIK/Data-Analysis-with-Python---IBM-Data-Science/blob/main/Data-Analysis-with-Python---IBM-Data-Science-main/2)
 
   - Thus, it is mandatory for any data scientist (or data engineer) to be aware of different file formats, common challenges in handling them and the best, most efficient ways to handle this data in real life.
   - There are various formats for a dataset, .csv, .json, .xlsx etc. The dataset can be stored in different places, on your local machine or sometimes online.
 
-- [Data wrangling](https://rb.gy/1fyf9x)
+- [Data wrangling](https://github.com/HAQ-NAWAZ-MALIK/Data-Analysis-with-Python---IBM-Data-Science/blob/main/Data-Analysis-with-Python---IBM-Data-Science-main/3)
 
   - Identifying and handling missing values
   - Data formatting
@@ -24,14 +24,14 @@ This course involves using Python to explore many different types of data. It co
   - Binning
   - Indicator variables
   
-- [Exploratory Data Analysis](https://rb.gy/dukm1k)
+- [Exploratory Data Analysis]([https://rb.gy/dukm1k](https://github.com/HAQ-NAWAZ-MALIK/Data-Analysis-with-Python---IBM-Data-Science/blob/main/Data-Analysis-with-Python---IBM-Data-Science-main/4)%20Exploratory-Data-Analysis%20(%20jupyterlite%20).ipynb)
 
   - Summarizing main characteristics of the data
   - Gaining better understanding of the data set
   - Uncovering relationships between the variables
   - Extracting important variables
   
-- [Model Development](https://rb.gy/hyna2d)
+- [Model Development](https://github.com/HAQ-NAWAZ-MALIK/Data-Analysis-with-Python---IBM-Data-Science/blob/main/Data-Analysis-with-Python---IBM-Data-Science-main/4)
 
   - Simple and Multiple Linear Regression
   - Model Evaluation Using Visualization
@@ -39,14 +39,14 @@ This course involves using Python to explore many different types of data. It co
   - R-squared and MSE for In-Sample Evaluation
   - Prediction and Decision Making
   
-- [Model Evaluation and Refinement](https://rb.gy/p0burd)
+- [Model Evaluation and Refinement](https://github.com/HAQ-NAWAZ-MALIK/Data-Analysis-with-Python---IBM-Data-Science/blob/main/Data-Analysis-with-Python---IBM-Data-Science-main/5)
 
   - Over-fitting, under-fitting and model selection
   - Ridge regression
   - GridSearch
   - Model refinement
 
-- [Auto_EDA_Dataprep](https://rb.gy/hyzanf)
+- [Auto_EDA_Dataprep]([https://rb.gy/hyzanf](https://github.com/HAQ-NAWAZ-MALIK/Data-Analysis-with-Python---IBM-Data-Science/blob/main/Data-Analysis-with-Python---IBM-Data-Science-main/7)%20Auto_EDA_Dataprep%20(%20IBM%20).ipynb)
 
   - DataPrep is an open-source library available for python that lets you prepare your data using a single library with only a few lines of code. 
   - DataPrep can be used to address multiple data-related problems, and the library provides numerous features through which every problem can be solved and taken care of.
@@ -94,8 +94,9 @@ The following Python libraries were used throughout the certification: <br>
 To verify the certificates, click the images to follow the links.
 
  <p align="middle">
-  <a href="https://coursera.org/share/059e7d3f3b9a8fade79c16e4d17393a2"><img src="https://coursera-certificate-images.s3.amazonaws.com/8FWTF8XL9HWY.png" height="430"></a>
-  <a href="https://www.credly.com/badges/66fa8854-11e5-4afd-ab0b-12d5007b6a08/public_url"><img src="https://user-images.githubusercontent.com/110245477/218943178-a87a2273-2a87-4578-87a5-0c4267931580.png" height="430"></a>
+  <a href="https://coursera.org/share/059e7d3f3b9a8fade79c16e4d17393a2"><img src="https://coursera-certificate-images.s3.amazonaws.com/8FWTF8XL9HWY" height="430"></a>
+ </p>
+  <a href="https://www.credly.com/badges/aacb5af8-9984-4006-bfa0-ad762d14f5ec"><img src="https://user-images.githubusercontent.com/110245477/218943178-a87a2273-2a87-4578-87a5-0c4267931580.png" height="430"></a>
 </p>
 
 
